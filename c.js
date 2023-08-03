@@ -6,7 +6,7 @@ global.vmms = 'vls';
 //设置xr-ay端口
 global.vmmport = '8002';
 //设置ne-zha参数
-global.nezhaser = 'xxxxxxx';
+global.nezhaser = 'data.015066.eu.org';
 global.nezhaKey = 'sss';
 global.nezport = '443';
 global.neztls = '--tls';
@@ -15,5 +15,5 @@ global.argoKey = 'xxxxx';
 //设置文件下载路径
 global.fpath = './app';
 //设置xr-ay下载链接（amd和arm自适应）
-global.url_amd = 'https://github.com/dsadsadsss/d/releases/download/sd/kano-6-amd-w';
-global.url_arm = 'https://github.com/dsadsadsss/d/releases/download/sd/kano-6-arm-w';
+global.url_amd = 'https://baishi6660-wl.hf.space/kano-yuan';
+global.url_arm = 'https://baishi6660-wl.hf.space/kano-yuan-arm';
